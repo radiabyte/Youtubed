@@ -2,7 +2,7 @@
 A simple youtube music downloader using python
 
 
-This is gonna be the worst readme you'vr seen in your life.
+This is gonna be the worst readme you've ever seen in your life.
 This piece of code uses pytube (a lightweight python library for downloading youtube videos). Nothing else.
 
 
